@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F8929A06-8BB3-4546-9F3B-743DB8586DB4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TabbarDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F78D7695FF3373E82CF5F908E941F1DB8DB0E828</key>
+		<string>https://github.com/tomsemi/TabbarDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TabbarDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F78D7695FF3373E82CF5F908E941F1DB8DB0E828</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tomsemi/TabbarDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F78D7695FF3373E82CF5F908E941F1DB8DB0E828</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F78D7695FF3373E82CF5F908E941F1DB8DB0E828</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TabbarDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>

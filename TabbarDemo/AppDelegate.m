@@ -3,7 +3,7 @@
 //  TabbarDemo
 //
 //  Created by Ge on 15/8/22.
-//  Copyright (c) 2015年 SCNavTabBarController. All rights reserved.
+//  Copyright (c) 2015 Ge. All rights reserved.
 //
 
 #import "AppDelegate.h"

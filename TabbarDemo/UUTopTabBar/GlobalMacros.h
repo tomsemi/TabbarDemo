@@ -3,7 +3,7 @@
 //  SCNavTabBarController
 //
 //  Created by Ge￼ on 14-1-6.
-//  Copyright (c) 2014年 SCNavTabBarController. All rights reserved.
+//  Copyright (c) 2015 Ge. All rights reserved.
 //
 
 #define IMAGE(NAME)                                 [UIImage imageNamed:NAME]
